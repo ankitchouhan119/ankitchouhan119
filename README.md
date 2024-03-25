@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ankitchouhan119" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchouhan119?logo=twitter&style=for-the-badge" alt="ankitchouhan119" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
 
+<!-- - 🌱 I’m currently learning **Machine Learning** -->
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJs**
 
 - 📫 How to reach me **shankit119@gmail.com**
